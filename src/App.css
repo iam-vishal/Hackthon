@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  height: 100%;
+  background-color: #edf2f8;
+  overflow-x: hidden;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.brand-page-wrapper{
+  padding: 20px 60px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.kof-card{
+  background-color: white;
+  padding: 20px 20px 10px 20px;
+  border-radius: 10px;
 }
-
-.App-link {
-  color: #61dafb;
+.cursor-pointer{
+  cursor: pointer;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.news-description{
+  font-size: 10px;
+}
+.profile-pic{
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+}
+.contact-person-img{
+  width: 180px;
+  height: 180px;
+  border-radius: 10px;
+}
+.influencer-count{
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px 0;
+}
+.connection{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-color: red;
+  overflow: hidden;
+  box-shadow: 2px 2px 2px #888888;
+  margin-bottom: 3px;
+}
+.connection img{
+  width: 100%;
+  height: 100%;
+  
+  object-fit: cover;
+}
+.connection{
+  margin-left: -8px;
+}
+.mutual-connection{
+  font-size: small;
 }

@@ -1,0 +1,1035 @@
+[{
+   "brand_id": 1,
+   "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXuKDL6iK9frhF0JVkL7wXYixzepYRZT18ae4NvS0hKVIYor_02zfiCARRinObmGEGhQ&usqp=CAU",
+   "brand_name": "Dominos",
+   "sector": "Food/Pizza",
+   "seasons": "Diwali, New year, Holi",
+   "suitable_time": 1,
+   "total_creators":588,
+   "total_posts": 7725,
+   "total_engagement": 4986809,
+   "total_views": 55736099,
+   "total_likes": 3394609,
+   "total_comments": 184570,
+   "nano_post":57,
+   "micro_post":36,
+   "macro_post":5,
+   "mega_post":2,
+   "top_hashtags": ["#SpicyPizza","#DominosPujoSpecialMenu","#TakeAwayDominos"],
+   "no_of_posts": [128,25,20],
+   "likes": [52,20,18],
+   "no_of_creators": [91,19,15],
+   "contact_person": [{
+        "brand_name": "Dominos",
+        "name": "Arif Ehsan",
+        "profile_picture": "https://media.licdn.com/dms/image/C5103AQHdxk0WuYXItw/profile-displayphoto-shrink_400_400/0/1559022567281?e=1693440000&v=beta&t=03g8kdifcx0kejzlocnB90bpBz8WFSa9iej2ThTBta0",
+        "social_media_handles": "https://www.linkedin.com/in/arifehsan/",
+        "designation": "Head - Digital Marketing",
+        "yrs": 4
+    },
+    {
+        "brand_name": "Dominos",
+        "name": "Arushi Saran",
+        "profile_picture": "https://media.licdn.com/dms/image/C4D03AQF2U_XihqTxHQ/profile-displayphoto-shrink_800_800/0/1659364104002?e=1693440000&v=beta&t=egFMSAmSiK5cBsmFTe84TmNKZfhyhHtGDD7kX_6mSTU",
+        "social_media_handles": "https://www.linkedin.com/in/arushi-saran-08110b115/",
+        "designation": "Social Media Marketer",
+        "yrs": 2
+    }],
+    "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 74447},
+            {"name": "Budding", "count": 46618},
+            {"name": "Micro", "count": 98624},
+            {"name": "Macro", "count": 1899},
+            {"name": "Celeb", "count": 1641}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 87570},
+            {"name": "Budding", "count": 63934},
+            {"name": "Micro", "count": 24150},
+            {"name": "Macro", "count": 8212},
+            {"name": "Celeb", "count": 250}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "Dominos",
+      "instagram": "https://www.instagram.com/dominos_india/",
+      "youtube": "https://www.youtube.com/channel/UCUl-rHjymc7iLfpe_1dG9WA",
+      "twitter": "https://twitter.com/dominos_india",
+      "linkedin": "https://www.linkedin.com/company/jubilant-foodworks-ltd-/"
+   },
+   "competitors": [2,3],
+   "social_presense": 84,
+   "past_analysis": [
+      {
+         "date": "02-05-2023",
+         "result": 1,
+         "reason": "Our creator database"
+      },
+      {
+         "date": "17-01-2023",
+         "result": -1,
+         "reason": "High Pricing"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 18,
+      "keywords": [
+         {"keyword": "Awesome","weight": 35580},
+         {"keyword": "Quick Delivery","weight": 8162},
+         {"keyword": "Farmer Pizza","weight": 26949},
+         {"keyword": "Coupon","weight": 34941},
+         {"keyword": "Smelling","weight": 52797},
+         {"keyword": "Poor Support","weight": 24768},
+         {"keyword": "No Delivery","weight": 61835}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 20},
+      {"type": "Budding","count": 35},
+      {"type": "Micro","count": 25},
+      {"type": "Macro","count": 10},
+      {"type": "Mega","count": 8},
+      {"type": "Celeb","count": 2}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 955610},
+      {"name": "Google Ads","budget": 192409},
+      {"name": "Email Marketing","budget": 78993},
+      {"name": "TV Ads","budget": 399240}
+   ],
+   "news": [
+      {
+         "title":"How to take smart risks with lo-fi social content",
+         "description":"In late 2009, Domino’s released a brutally honest commercial, publicizing customers’ overwhelmingly negative feelings about their pizza—and asking folks to give them a second Read more...\nThe post How to take smart risks with lo-fi social content appeared fir…",
+         "url":"https://sproutsocial.com/insights/lo-fi-content/",
+         "urlToImage":"https://media.sproutsocial.com/uploads/2023/06/How-to-take-smart-risks-with-lo-fi-social-content-V6.jpg",
+         "publishedAt":"2023-06-29T13:38:21Z"
+      },
+      {
+         "title":"Latitude 28° Mastercard Cashbacks: Spend $30 at Uber Eats for $15 Back; Spend $75 at Chemist Warehouse for $10 CB and more",
+         "description":"Might be targeted based on previous offers but just received e-mail from 28 Degrees (Latitude):\n\nSome goodies for me are Chemist Warehouse and UE (stack with current offers).\n\nGet $10 cashback when you spend $50 or more at Pet Circle.\nGet $15 cashback when yo…",
+         "url":"https://www.ozbargain.com.au/node/784758",
+         "urlToImage":"https://files.ozbargain.com.au/n/58/784758x.jpg?h=fb930381",
+         "publishedAt":"2023-06-29T13:27:11Z"
+      },
+      {
+         "title":"The widespread adoption of AI by companies will take a while",
+         "description":"For the technology to make its mark on productivity, even mediocre firms will need to make the leap",
+         "url":"https://www.economist.com/leaders/2023/06/29/the-widespread-adoption-of-ai-by-companies-will-take-a-while",
+         "urlToImage":"https://www.economist.com/img/b/1280/720/90/media-assets/image/20230701_LDD003.jpg",
+         "publishedAt":"2023-06-29T14:38:40Z"
+      },
+      {
+         "title":"Domino's will put 1,100+ Chevy Bolt EVs on the road this year",
+         "description":"Looks like Domino’s has snatched up more 2023 Chevy Bolts before they disappear – the pizza delivery giant is adding a few hundred more to its electric delivery fleet in the US. In November 2022, Domino’s (NYSE:DPZ) announced that it was going to put 800 2023…",
+         "url":"https://biztoc.com/x/852e9088fdd6b083",
+         "urlToImage":"https://c.biztoc.com/p/852e9088fdd6b083/s.webp",
+         "publishedAt":"2023-06-29T03:58:07Z"
+      }
+   ]
+},
+{
+   "brand_id": 2,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "PizzaHut",
+   "sector": "Food/Pizza",
+   "seasons": "Diwali, New year, Holi",
+   "suitable_time": 1,
+   "total_creators":1200,
+   "total_posts": 4995,
+   "total_engagement": 5244809,
+   "total_views": 44187099,
+   "total_likes": 7081909,
+   "nano_post":23,
+   "micro_post":30,
+   "macro_post":30,
+   "mega_post":17,
+   "contact_person": [{
+        "brand_name": "Pizzahut",
+        "name": "Ayush Kumar",
+        "profile_picture": "https://media.licdn.com/dms/image/C5103AQFefv9CW3au9Q/profile-displayphoto-shrink_400_400/0/1542529887962?e=1693440000&v=beta&t=b7IteqQUitxzohm8X2TUEhr4VEfktzFBeYaG7TRTD4E",
+        "social_media_handles": "https://www.linkedin.com/in/ayush-kumar-54b177175/",
+        "designation": "Strategy & Analytics Manager",
+        "yrs": 5
+    },
+    {
+        "brand_name": "Pizzahut",
+        "name": "Amit Patel",
+        "profile_picture": "https://media.licdn.com/dms/image/C5603AQH5jGU650Pr0g/profile-displayphoto-shrink_400_400/0/1517831988292?e=1693440000&v=beta&t=34R9_4ZonGqBlQnNexS6pi1IvZN4MkstsyzZsbxzHoM",
+        "social_media_handles": "https://www.linkedin.com/in/amit-patel-b31b39111/",
+        "designation": "Social Media Marketer",
+        "yrs": 1
+    }],
+   "total_comments": 586470,
+   "top_hashtags": ["#PizzaHutForever","#PizzahutDelivery","#TopPizza"],
+   "no_of_posts": [63,18,12],
+   "likes": [24,11,10],
+   "no_of_creators": [51,13,9],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 89171},
+            {"name": "Budding", "count": 81448},
+            {"name": "Micro", "count": 80643},
+            {"name": "Macro", "count": 14220},
+            {"name": "Celeb", "count": 1153}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 33945},
+            {"name": "Budding", "count": 27416},
+            {"name": "Micro", "count": 65507},
+            {"name": "Macro", "count": 521},
+            {"name": "Celeb", "count": 162}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "Pizzahut",
+      "instagram": "https://www.instagram.com/pizzahut_india/",
+      "youtube": "https://www.youtube.com/channel/UCOBjFMnb_0rfwV0plAYXsfQ",
+      "twitter": "https://twitter.com/PizzaHutIN",
+      "linkedin": "https://www.linkedin.com/company/pizza-hut-india/"
+   },
+   "competitors": [1,3],
+   "social_presense": 69,
+   "past_analysis": [
+      {
+         "date": "02-06-2023",
+         "result": -1,
+         "reason": "Recession"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 30,
+      "keywords": [
+         {"keyword": "Awesome","weight": 36261},
+         {"keyword": "Quick Delivery","weight": 61204},
+         {"keyword": "Nearby","weight": 52648},
+         {"keyword": "Spicy","weight": 22991},
+         {"keyword": "Good Support","weight": 3997},
+         {"keyword": "Cold Food","weight": 6932},
+         {"keyword": "No Delivery","weight": 357575}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 30},
+      {"type": "Budding","count": 10},
+      {"type": "Micro","count": 12},
+      {"type": "Macro","count": 28},
+      {"type": "Mega","count": 17},
+      {"type": "Celeb","count": 3}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 672600},
+      {"name": "Google Ads","budget": 342050},
+      {"name": "Email Marketing","budget": 68267},
+      {"name": "TV Ads","budget": 730600}
+   ],
+   "news": [
+      {
+         "title":"Donkere wolken boven Stationsproject. “Voor bovenafwerking is er nog geen aannemer”",
+         "description":"De opening van de nieuwe wegtunnel aan het voormalig kruispunt Panorama en Appel is nog niet voor deze zomer. De werken lopen heel wat vertraging op. Voor de bovenaanleg is er zelfs nog geen aannemer gevonden.",
+         "url":"https://www.nieuwsblad.be/cnt/dmf20230629_93326242",
+         "urlToImage":"https://static.nieuwsblad.be/Assets/Images_Upload/2023/06/29/36345625-2fe1-4af8-a027-9314c60d55de.jpg?maxheight=460&maxwidth=638",
+         "publishedAt":"2023-06-29T09:13:59Z"
+      }
+   ]
+},
+{
+   "brand_id": 3,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "Ovenstory",
+   "sector": "Food/Pizza",
+   "seasons": "Diwali, New year, Holi",
+   "suitable_time": 1,
+   "total_creators":2000,
+   "total_posts": 1947,
+   "total_engagement": 4454209,
+   "total_views": 28125099,
+   "total_likes": 9449609,
+   "nano_post":49,
+   "micro_post":41,
+   "macro_post":8,
+   "mega_post":2,
+   "contact_person": [{
+        "brand_name": "Ovenstory",
+        "name": "Savio Joseph",
+        "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHESkSgXFIAGw/profile-displayphoto-shrink_400_400/0/1616860504996?e=1693440000&v=beta&t=7_rhNFodUv3U9DpieBpFtsloraBWi5jcb-lQeRxoKBg",
+        "social_media_handles": "https://www.linkedin.com/in/jsavio0/",
+        "designation": "Sr. Executive - Marketing",
+        "yrs": 4
+    },
+    {
+        "brand_name": "Ovenstory",
+        "name": "Darshan Prajapati",
+        "profile_picture": "https://media.licdn.com/dms/image/D4D03AQGO2wS5ZqY6Cw/profile-displayphoto-shrink_800_800/0/1687116856684?e=1694044800&v=beta&t=Gpw7cuZr1-ceZDHFHRQCbIHNneOgGwmYIgdnTLImyqY",
+        "social_media_handles": "https://www.linkedin.com/in/darshan-prajapati-719b39101/",
+        "designation": "Assistant Manager- Brand Marketing",
+        "yrs": 2
+    }],
+   "total_comments": 623990,
+   "top_hashtags": ["#OvenstoryPizza","#SpicyOvenstory","#ChickenStory"],
+   "no_of_posts": [42,9,6],
+   "likes": [27,3,2],
+   "no_of_creators": [32,4,5],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 69787},
+            {"name": "Budding", "count": 41164},
+            {"name": "Micro", "count": 36763},
+            {"name": "Macro", "count": 68702},
+            {"name": "Celeb", "count": 9996}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 62468},
+            {"name": "Budding", "count": 21295},
+            {"name": "Micro", "count": 69594},
+            {"name": "Macro", "count": 3613},
+            {"name": "Celeb", "count": 326}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "Ovenstory",
+      "instagram": "https://www.instagram.com/ovenstory/",
+      "youtube": "",
+      "twitter": "https://twitter.com/RebelFoods1",
+      "linkedin": "https://www.linkedin.com/company/rebel-foods/"
+   },
+   "competitors": [1,2],
+   "social_presense": 47,
+   "past_analysis": [
+      {
+         "date": "23-05-2023",
+         "result": 1,
+         "reason": "Lower Pricing"
+      },
+      {
+         "date": "17-02-2023",
+         "result": -1,
+         "reason": "Budget Constraint"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 40,
+      "keywords": [
+         {"keyword": "Toppings","weight": 36261},
+         {"keyword": "Spillover","weight": 61204},
+         {"keyword": "Excellent","weight": 52648},
+         {"keyword": "Too much Spicy","weight": 22991},
+         {"keyword": "Late Delivery","weight": 3997},
+         {"keyword": "Garlic Bread","weight": 6932},
+         {"keyword": "Quick","weight": 357575}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 40},
+      {"type": "Budding","count": 20},
+      {"type": "Micro","count": 10},
+      {"type": "Macro","count": 12},
+      {"type": "Mega","count": 8},
+      {"type": "Celeb","count": 10}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 903300},
+      {"name": "Google Ads","budget": 116410},
+      {"name": "Email Marketing","budget": 99660},
+      {"name": "TV Ads","budget": 293660}
+   ],
+   "news": []
+},
+{
+   "brand_id": 4,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "Axis Bank",
+   "sector": "Banking",
+   "seasons": "January, February",
+   "suitable_time": 0,
+   "total_creators":2400,
+   "total_posts": 6594,
+   "total_engagement": 8813709,
+   "total_views": 12147099,
+   "nano_post":28,
+   "micro_post":26,
+   "macro_post":28,
+   "mega_post":19,
+   "contact_person": [{
+        "brand_name": "Axis Bank",
+        "name": "Krithika Natarajan",
+        "profile_picture": "https://media.licdn.com/dms/image/C5103AQHvaw5MlJzgbw/profile-displayphoto-shrink_400_400/0/1516477807624?e=1693440000&v=beta&t=BZs2Ky6DN8In2-om7IBz5xrSnK5GrvlfDaYWZkwPIqc",
+        "social_media_handles": "https://www.linkedin.com/in/krithika-natarajan-2bb10248/",
+        "designation": "Senior Brand Marketing Manager",
+        "yrs": 3
+    },
+    {
+        "brand_name": "Axis Bank",
+        "name": "SHIBASISH SUR",
+        "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHdRq-KcXfTcA/profile-displayphoto-shrink_400_400/0/1602665392425?e=1693440000&v=beta&t=niz-yUtju_lvLvfOJ-jaKuOBE0MR9o6vpEnEhVhlIcM",
+        "social_media_handles": "https://www.linkedin.com/in/shibasish-sur-914a45151/",
+        "designation": "Marketing Manager",
+        "yrs": 1
+    }],
+   "total_likes": 5055609,
+   "total_comments": 278200,
+   "top_hashtags": ["#AxisSabKeSath","#AxisEMIs","#AxisBank"],
+   "no_of_posts": [110,41,21],
+   "likes": [31,12,5],
+   "no_of_creators": [110,41,21],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 46972},
+            {"name": "Budding", "count": 14003},
+            {"name": "Micro", "count": 36057},
+            {"name": "Macro", "count": 28972},
+            {"name": "Celeb", "count": 1859}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 2601},
+            {"name": "Budding", "count": 41080},
+            {"name": "Micro", "count": 65504},
+            {"name": "Macro", "count": 4051},
+            {"name": "Celeb", "count": 325}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "Axis Bank",
+      "instagram": "https://www.instagram.com/axis_bank/",
+      "youtube": "",
+      "twitter": "https://twitter.com/AxisBank",
+      "linkedin": "https://www.linkedin.com/company/axis-bank/"
+   },
+   "competitors": [5,6],
+   "social_presense": 60,
+   "past_analysis": [
+      {
+         "date": "02-06-2023",
+         "result": -1,
+         "reason": "Creators Liquidity"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 86,
+      "keywords": [
+         {"keyword": "Deposit","weight": 40428},
+         {"keyword": "Loan","weight": 89703},
+         {"keyword": "Bad Support","weight": 91914},
+         {"keyword": "Expensive","weight": 21453},
+         {"keyword": "Gold Loan","weight": 80088},
+         {"keyword": "Trading","weight": 19956},
+         {"keyword": "Poor Staff","weight": 81779}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 25},
+      {"type": "Budding","count": 25},
+      {"type": "Micro","count": 20},
+      {"type": "Macro","count": 10},
+      {"type": "Mega","count": 12},
+      {"type": "Celeb","count": 8}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 733910},
+      {"name": "Google Ads","budget": 259140},
+      {"name": "Email Marketing","budget": 90683},
+      {"name": "TV Ads","budget": 292490}
+   ],
+   "news": [
+         {
+           "title": "Axis Bank share price Today Live Updates : Axis Bank closed today at ₹987.8, up 0.97% from yesterday's ₹978.3 | Mint - Mint",
+           "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9tYXJrZXQvbGl2ZS1ibG9nL2F4aXMtYmFuay1zaGFyZS1wcmljZS1saXZlLWJsb2ctZm9yLTMwLWp1bi0yMDIzLTExNjg4MDkzMjUzMzQ2Lmh0bWzSAXFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L2xpdmUtYmxvZy9heGlzLWJhbmstc2hhcmUtcHJpY2UtbGl2ZS1ibG9nLWZvci0zMC1qdW4tMjAyMy9hbXAtMTE2ODgwOTMyNTMzNDYuaHRtbA?oc=5",
+           "publishedAt": "2023-06-29T10:10:00Z"
+         },
+         {
+           "title": "Bandhan Bank and Axis Bank are likely to see largest dividend growth in FY24 - CNBCTV18",
+           "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vcGVyc29uYWwtZmluYW5jZS9iYW5kaGFuLWJhbmstYW5kLWF4aXMtYmFuay1hcmUtbGlrZWx5LXRvLXNlZS1sYXJnZXN0LWRpdmlkZW5kLWdyb3d0aC1pbi1meTI0LTE3MDU2NzIxLmh0bdIBhwFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vcGVyc29uYWwtZmluYW5jZS9iYW5kaGFuLWJhbmstYW5kLWF4aXMtYmFuay1hcmUtbGlrZWx5LXRvLXNlZS1sYXJnZXN0LWRpdmlkZW5kLWdyb3d0aC1pbi1meTI0LTE3MDU2NzIxLmh0bS9hbXA?oc=5",
+           "publishedAt": "2023-06-29T03:16:58Z"
+         },
+         {
+           "title": "Buy UltraTech Cement; target of Rs 9350: Axis Securities - Moneycontrol",
+           "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9zdG9ja3MvYnV5LXVsdHJhdGVjaC1jZW1lbnQtdGFyZ2V0LW9mLXJzLTkzNTAtYXhpcy1zZWN1cml0aWVzLTEwODgzMzIxLmh0bWzSAXpodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3Mvc3RvY2tzL2J1eS11bHRyYXRlY2gtY2VtZW50LXRhcmdldC1vZi1ycy05MzUwLWF4aXMtc2VjdXJpdGllcy0xMDg4MzMyMS5odG1sL2FtcA?oc=5",
+           "publishedAt": "2023-06-29T03:16:58Z"
+         },
+         {
+           "title": "HDFC Bank, Axis Bank among 5 stocks which engineer surge in BSE Bankex - The Economic Times",
+           "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy9oZGZjLWJhbmstYXhpcy1iYW5rLWFtb25nLTUtc3RvY2tzLXdoaWNoLWVuZ2luZWVyLXN1cmdlLWluLWJzZS1iYW5rZXgvYXJ0aWNsZXNob3cvMTAxMzA3NDEyLmNtc9IBkwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFya2V0cy9zdG9ja3MvbmV3cy9oZGZjLWJhbmstYXhpcy1iYW5rLWFtb25nLTUtc3RvY2tzLXdoaWNoLWVuZ2luZWVyLXN1cmdlLWluLWJzZS1iYW5rZXgvYW1wX2FydGljbGVzaG93LzEwMTMwNzQxMi5jbXM?oc=5",
+           "publishedAt": "2023-06-29T10:10:09Z"
+         }
+      ]
+},
+{
+   "brand_id": 5,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "HDFC Bank",
+   "sector": "Banking",
+   "seasons": "January, February",
+   "suitable_time": 0,
+   "total_creators":3000,
+   "total_posts": 8226,
+   "contact_person": [{
+        "brand_name": "HDFC Bank",
+        "name": "Prashanth Ramani",
+        "profile_picture": "https://media.licdn.com/dms/image/D5603AQHKA2t8SEVqpg/profile-displayphoto-shrink_400_400/0/1688320280252?e=1694044800&v=beta&t=gjMnQ78rxmkEKBRWWG8CoVYwOYJl4-kR3SLjMmMK1Rw",
+        "social_media_handles": "https://www.linkedin.com/in/prashanth-ramani-148b90187/",
+        "designation": "Senior Marketing Manager",
+        "yrs": 6
+    },
+    {
+        "brand_name": "HDFC Bank",
+        "name": "Sakshi Jain",
+        "profile_picture": "https://media.licdn.com/dms/image/C4E03AQETPuIsjajZJA/profile-displayphoto-shrink_400_400/0/1620340094884?e=1693440000&v=beta&t=xkkZdKsmgz2Q8RaDrDdfJb8I3ggu-riFGMxamlwO3wA",
+        "social_media_handles": "https://www.linkedin.com/in/sakshi-jain-94b3ab84/",
+        "designation": "Marketing Manager",
+        "yrs": 1
+    }],
+   "total_engagement": 6798109,
+   "total_views": 46523099,
+   "total_likes": 3452809,
+   "total_comments": 728440,
+   "nano_post":11,
+   "micro_post":55,
+   "macro_post":32,
+   "mega_post":2,
+   "top_hashtags": ["#HDFCBank","#HDFCGoldLoan","#HDFCLoan"],
+   "no_of_posts": [21,10,5],
+   "likes": [5,3,1],
+   "no_of_creators": [21,5,2],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 5566},
+            {"name": "Budding", "count": 95525},
+            {"name": "Micro", "count": 10645},
+            {"name": "Macro", "count": 19201},
+            {"name": "Celeb", "count": 9701}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 35258},
+            {"name": "Budding", "count": 62650},
+            {"name": "Micro", "count": 44844},
+            {"name": "Macro", "count": 4217},
+            {"name": "Celeb", "count": 4}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "HDFC Bank",
+      "instagram": "https://www.instagram.com/hdfcbank/",
+      "youtube": "https://www.youtube.com/channel/UCltI3cHugjE78CtUl__8HBA",
+      "twitter": "https://twitter.com/HDFC_Bank",
+      "linkedin": "https://www.linkedin.com/company/hdfc-bank/"
+   },
+   "competitors": [4,6],
+   "social_presense": 10,
+   "past_analysis": [
+      {
+         "date": "02-05-2023",
+         "result": 1,
+         "reason": "Our creator database"
+      },
+      {
+         "date": "02-05-2023",
+         "result": -1,
+         "reason": "High Pricing"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 53,
+      "keywords": [
+         {"keyword": "Low Rate","weight": 90884},
+         {"keyword": "UPI Failure","weight": 39988},
+         {"keyword": "Bad Support","weight": 23900},
+         {"keyword": "Internet Banking","weight": 10251},
+         {"keyword": "Car Loan","weight": 60747},
+         {"keyword": "Intraday","weight": 96437},
+         {"keyword": "Excellent","weight": 30711}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 32},
+      {"type": "Budding","count": 18},
+      {"type": "Micro","count": 0},
+      {"type": "Macro","count": 20},
+      {"type": "Mega","count": 25},
+      {"type": "Celeb","count": 5}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 229070},
+      {"name": "Google Ads","budget": 490880},
+      {"name": "Email Marketing","budget": 85521},
+      {"name": "TV Ads","budget": 234530}
+   ],
+   "news": [{
+      "title":"Sebi sees no need to give more time to MFs for realigning portfolios in merger-bound HDFC twins",
+      "description":"In the biggest merger in the history of India Inc, HDFC in April 2022 said it would merge with its own banking subsidiary in a $40-billion all-stock deal.",
+      "url":"https://indianexpress.com/article/business/market/sebi-time-mutual-funs-realigning-portfolios-hdfc-twins-merger-8692597/",
+      "urlToImage":"https://images.indianexpress.com/2023/06/hdfc1-2.jpg",
+      "publishedAt":"2023-06-29T10:10:00Z"
+   },
+   {
+      "title":"HDFC Bank, IndusInd Bank to lead next leg up-move for Bank Nifty to outperform",
+      "description":"During July, Jatin Gedia expects the auto index to resume with its up move and surpass the 15,000 mark",
+      "url":"https://www.moneycontrol.com/news/business/markets/hdfc-bank-indusind-bank-to-lead-next-leg-up-move-for-bank-nifty-to-outperform-10875931.html",
+      "urlToImage":"https://images.moneycontrol.com/static-mcnews/2023/06/Jatin_Gedia-770x433.jpg",
+      "publishedAt":"2023-06-29T03:16:58Z"
+   },
+   {
+      "title":"HDFC Bank, IndusInd Bank to lead next leg up-move for Bank Nifty to outperform - Moneycontrol",
+      "description":"<ol><li>HDFC Bank, IndusInd Bank to lead next leg up-move for Bank Nifty to outperform  Moneycontrol\r\n</li><li>LTIMindtree Is The Strongest Candidate To Replace HDFC In Nifty 50: IIFL Securities | CNBC TV18  CNBC-TV18\r\n</li><li>Jun 28, 2023 - - Why HDFC Life …",
+      "url":"https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvbWFya2V0cy9oZGZjLWJhbmstaW5kdXNpbmQtYmFuay10by1sZWFkLW5leHQtbGVnLXVwLW1vdmUtZm9yLWJhbmstbmlmdHktdG8tb3V0cGVyZm9ybS0xMDg3NTkzMS5odG1s0gGSAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9tYXJrZXRzL2hkZmMtYmFuay1pbmR1c2luZC1iYW5rLXRvLWxlYWQtbmV4dC1sZWctdXAtbW92ZS1mb3ItYmFuay1uaWZ0eS10by1vdXRwZXJmb3JtLTEwODc1OTMxLmh0bWwvYW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage":null,
+      "publishedAt":"2023-06-29T03:16:58Z"
+   },
+   {
+      "title":"SEBI sees no need to give more time to MFs for realigning portfolios in merger-bound HDFC twins",
+      "description":"Available data do not demand that mutual funds should be given more time to realign their portfolios after the merger of the HDFC twins: Chairperson Madhabi Puri Buch",
+      "url":"https://www.thehindubusinessline.com/money-and-banking/sebi-sees-no-need-to-give-more-time-to-mfs-for-realigning-portfolios-in-merger-bound-hdfc-twins/article67022854.ece",
+      "urlToImage":"https://bl-i.thgim.com/public/incoming/bb84v9/article67015502.ece/alternates/LANDSCAPE_1200/2023-06-14T083415Z_1126829638_RC2VI1A8JV0Q_RTRMADP_3_INDIA-SEBI-HDFC-BANK.JPG",
+      "publishedAt":"2023-06-29T10:10:09Z"
+   }]
+},
+{
+   "brand_id": 6,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "Kotak Bank",
+   "sector": "Banking",
+   "seasons": "January, February",
+   "suitable_time": 0,
+   "total_creators":2889,
+   "total_posts": 9475,
+   "total_engagement": 2298309,
+   "contact_person": [{
+        "brand_name": "Kotak Bank",
+        "name": "Muntazir Zaidi",
+        "profile_picture": "https://media.licdn.com/dms/image/C4E03AQESIXjSi3x72w/profile-displayphoto-shrink_400_400/0/1611978789485?e=1693440000&v=beta&t=zyC8LNpPc7vLirRPinvNpneA5CyJ1PfH53iuRMGiRAY",
+        "social_media_handles": "https://www.linkedin.com/in/muntazirmahdi/",
+        "designation": "Senior Marketing Manager",
+        "yrs": 2
+    },
+    {
+        "brand_name": "Kotak Bank",
+        "name": "Riya Singh",
+        "profile_picture": "https://media.licdn.com/dms/image/D4D03AQE72tYhJNJbWA/profile-displayphoto-shrink_400_400/0/1674626415034?e=1693440000&v=beta&t=M4CQAamClfbWdFJkSgnuOmDCvTA-pij_4FV6aHrjyoE",
+        "social_media_handles": "https://www.linkedin.com/in/riya-singh-8b6600195/",
+        "designation": "Marketing Manager",
+        "yrs": 1
+    }],
+   "total_views": 52987099,
+   "total_likes": 9079809,
+   "total_comments": 258720,
+   "nano_post":35,
+   "micro_post":47,
+   "macro_post":18,
+   "mega_post":0,
+   "top_hashtags": ["#KotakInternetBanking","#KotakDebit","#AvailableAnytimeKotak"],
+   "no_of_posts": [32,11,4],
+   "likes": [21,8,3],
+   "no_of_creators": [28,10,2],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 43289},
+            {"name": "Budding", "count": 13511},
+            {"name": "Micro", "count": 907},
+            {"name": "Macro", "count": 86806},
+            {"name": "Celeb", "count": 1763}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 83959},
+            {"name": "Budding", "count": 3402},
+            {"name": "Micro", "count": 33019},
+            {"name": "Macro", "count": 5847},
+            {"name": "Celeb", "count": 33}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "Kotak Bank",
+      "instagram": "https://www.instagram.com/kotakbankltd/",
+      "youtube": "https://www.youtube.com/channel/UCZD2bKSYXq-S-T3z93C4Ljg",
+      "twitter": "https://twitter.com/KotakBankLtd",
+      "linkedin": "https://www.linkedin.com/company/kotak-mahindra-bank/"
+   },
+   "competitors": [4,5],
+   "social_presense": 74,
+   "past_analysis": [
+      {
+         "date": "02-05-2023",
+         "result": 1,
+         "reason": "Our creator database"
+      },
+      {
+         "date": "02-05-2023",
+         "result": -1,
+         "reason": "High Pricing"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 35,
+      "keywords": [
+         {"keyword": "High Rate","weight": 90884},
+         {"keyword": "Bond","weight": 39988},
+         {"keyword": "Quick Support","weight": 23900},
+         {"keyword": "Internet Banking","weight": 10251},
+         {"keyword": "Cheap Home Loan","weight": 60747},
+         {"keyword": "Good Staff","weight": 96437},
+         {"keyword": "Tech Support","weight": 30711}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 16},
+      {"type": "Budding","count": 24},
+      {"type": "Micro","count": 34},
+      {"type": "Macro","count": 26},
+      {"type": "Mega","count": 17},
+      {"type": "Celeb","count": 3}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 842009},
+      {"name": "Google Ads","budget": 237280},
+      {"name": "Email Marketing","budget": 10058},
+      {"name": "TV Ads","budget": 740100}
+   ],
+   "news": [
+      {
+         "author":"Aneeka Chatterjee",
+         "title":"How to access Kotak-WhatsApp net banking?",
+         "description":"Kotak Mahindra Bank has launched a WhatsApp banking feature, allowing users to easily access a range of banking services and receive updates through the popular messaging app. By registering for Kotak-WhatsApp banking, customers can enjoy services such as com…",
+         "url":"https://www.thehindubusinessline.com/money-and-banking/how-to-access-kotak-whatsapp-net-banking/article67023227.ece",
+         "urlToImage":"https://bl-i.thgim.com/public/incoming/v37q05/article67023185.ece/alternates/LANDSCAPE_1200/2023-01-21T124245Z_1532507531_RC2ZUY9W8LKK_RTRMADP_3_KOTAK-MAHINDRA-BANK-RESULTS.JPG",
+         "publishedAt":"2023-06-29T11:35:07Z"
+      },
+      {
+         "title":"Kotak Bank integrates Rupay Credit Cards with UPI",
+         "description":"Kotak Mahindra Bank, in partnership with the National Payments Corporation of India (NPCI), has introduced a new feature that allows customers to link their RuPay credit cards to UPI (Unified Payments Interface) apps. With this integration, customers no longe…",
+         "url":"https://www.thehindubusinessline.com/money-and-banking/kotak-mahindra-bank-integrates-rupay-credit-cards-with-upi/article67022865.ece",
+         "urlToImage":"https://bl-i.thgim.com/public/incoming/p9ad0a/article67022842.ece/alternates/LANDSCAPE_1200/2023-01-21T124245Z_1532507531_RC2ZUY9W8LKK_RTRMADP_3_KOTAK-MAHINDRA-BANK-RESULTS.JPG",
+         "publishedAt":"2023-06-29T10:16:07Z"
+      }
+   ]
+},
+{
+   "brand_id": 7,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "Amazon",
+   "sector": "ECommerce",
+   "seasons": "Diwali, Holi",
+   "suitable_time": 0,
+   "total_creators":2399,
+   "total_posts": 4360,
+   "total_engagement": 5127709,
+   "total_views": 64376099,
+   "total_likes": 9354809,
+   "nano_post":16,
+   "micro_post":47,
+   "macro_post":32,
+   "mega_post":5,
+   "contact_person": [{
+        "brand_name": "Amazon",
+        "name": "Omdutt Sharma",
+        "profile_picture": "https://media.licdn.com/dms/image/C5603AQHTDLMBqigHsQ/profile-displayphoto-shrink_400_400/0/1517484181608?e=1693440000&v=beta&t=zxxfWqttbvecVTo1YZ7qHPyQ_wu-HfhQ4-p_5j-i7lE",
+        "social_media_handles": "https://www.linkedin.com/in/omduttsharma/",
+        "designation": "Senior Marketing Manager",
+        "yrs": 4
+    },
+    {
+        "brand_name": "Amazon",
+        "name": "SriDeepthi Dondapati",
+        "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEd-pOaLNM9Lw/profile-displayphoto-shrink_400_400/0/1516517979280?e=1693440000&v=beta&t=j4W0fibwxV4FdPQ9Fm9seCOEPIkDPAhKAwbzu6mNKFU",
+        "social_media_handles": "https://www.linkedin.com/in/srideepthi-dondapati-467a9513/",
+        "designation": "Marketing Manager",
+        "yrs": 2
+    }],
+   "total_comments": 286980,
+   "top_hashtags": ["#AmazonKaVaar","#AmazonAlways","#AmazonKaro"],
+   "no_of_posts": [45,12,8],
+   "likes": [24,11,10],
+   "no_of_creators": [22,12,2],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 56070},
+            {"name": "Budding", "count": 31934},
+            {"name": "Micro", "count": 46893},
+            {"name": "Macro", "count": 51417},
+            {"name": "Celeb", "count": 2604}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 46184},
+            {"name": "Budding", "count": 44224},
+            {"name": "Micro", "count": 22857},
+            {"name": "Macro", "count": 2930},
+            {"name": "Celeb", "count": 608}
+        ]
+    },
+   "social_media_links": {
+      "brand_name": "Amazon",
+      "instagram": "https://www.instagram.com/amazondotin/",
+      "youtube": "https://www.youtube.com/channel/UC2cZjd8SBxVvZFGC5FEXn2Q",
+      "twitter": "https://twitter.com/amazonIN",
+      "linkedin": "https://www.linkedin.com/company/amazon/"
+   },
+   "competitors": [8,9],
+   "social_presense": 38,
+   "past_analysis": [
+      {
+         "date": "23-05-2023",
+         "result": 1,
+         "reason": "Lower Pricing"
+      },
+      {
+         "date": "17-02-2023",
+         "result": -1,
+         "reason": "Budget Constraint"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 52,
+      "keywords": [
+         {"keyword": "Coupon","weight": 90884},
+         {"keyword": "No Cost EMI","weight": 39988},
+         {"keyword": "Quick Delivery","weight": 23900},
+         {"keyword": "Scam","weight": 10251},
+         {"keyword": "Sellers' mistake","weight": 60747}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 16},
+      {"type": "Budding","count": 24},
+      {"type": "Micro","count": 34},
+      {"type": "Macro","count": 26},
+      {"type": "Mega","count": 17},
+      {"type": "Celeb","count": 3}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 843980},
+      {"name": "Google Ads","budget": 176860},
+      {"name": "Email Marketing","budget": 26180},
+      {"name": "TV Ads","budget": 671040}
+   ],
+   "news": [{
+      "author":"Mitchel Broussard",
+      "title":"Deals: Amazon Takes $199 Off M1 MacBook Air and M2 13-Inch MacBook Pro",
+      "description":"Amazon has a few deals on various MacBook Air and MacBook Pro models today, starting at just $799.99 for the M1 MacBook Air. Most of these sales include all-time low prices on these notebooks, and all are in stock and ready to ship out this week.\n\n\n\nNote: Mac…",
+      "url":"https://www.macrumors.com/2023/06/29/deals-199-off-m1-macbook-air-3/",
+      "urlToImage":"https://images.macrumors.com/t/23_QgBRjo2LOrtG5I1OQJl_48jA=/2125x/article-new/2022/06/M1-MacBook-Air-Deals-Feature-Cool.jpg",
+      "publishedAt":"2023-06-29T14:54:50Z",
+      "content":"Amazon has a few deals on various MacBook Air and MacBook Pro models today, starting at just $799.99 for the M1 MacBook Air. Most of these sales include all-time low prices on these notebooks, and al… [+1457 chars]"
+   },
+   {
+      "source":{
+         "id":"business-insider",
+         "name":"Business Insider"
+      },
+      "author":"Grace Dean",
+      "title":"The FTC plans to file a huge antitrust suit against Amazon, accusing it of punishing sellers who don't pay to use its logistics services, report says",
+      "description":"The antitrust suit is likely to focus on allegations that Amazon punishes sellers who don't use its warehousing and shipping services, per Bloomberg.",
+      "url":"https://www.businessinsider.com/ftc-amazon-antitrust-suit-marketplace-third-party-sellers-lawsuit-bloomberg-2023-6",
+      "urlToImage":"https://i.insider.com/649d6022ca788000197089a4?width=1200&format=jpeg",
+      "publishedAt":"2023-06-29T11:01:25Z",
+      "content":"Amazon CEO Andy Jassy.Mike Blake/Reuters\r\n<ul>\n<li>The FTC plans to file an antitrust suit against Amazon in the coming weeks, Bloomberg reported.</li>\n<li>It's expected to focus on allegations that … [+1916 chars]"
+   },
+   {
+      "source":{
+         "id":"vice-news",
+         "name":"Vice News"
+      },
+      "author":"Jules Roscoe, Jason Koebler",
+      "title":"Ohio Man Charged for Shooting Amazon Driver Delivering to His House",
+      "description":"The man was arrested and charged with one count of felonious assault.",
+      "url":"https://www.vice.com/en/article/n7e73w/ohio-man-charged-for-shooting-amazon-driver-delivering-to-his-house",
+      "urlToImage":"https://video-images.vice.com/articles/649d9fba76332d45eada63ed/lede/1688051923630-gettyimages-1155745592.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45MDg3eGg7MHh3LDAuMDMzMXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+      "publishedAt":"2023-06-29T15:19:45Z",
+      "content":"An Ohio man was arrested last week after he allegedly shot an Amazon delivery driver who was dropping off a package at his house in Franklin County, in the southwest area of Columbus. \r\nThe driver wa… [+1454 chars]"
+   }]
+},
+{
+   "brand_id": 8,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "Nykaa",
+   "sector": "ECommerce",
+   "seasons": "Diwali, Holi",
+   "suitable_time": 0,
+   "total_creators":652,
+   "total_posts": 815,
+   "contact_person": [{
+        "brand_name": "Meesho",
+        "name": "Vishal Chetty",
+        "profile_picture": "https://media.licdn.com/dms/image/D5635AQGCTP8zJNfa5Q/profile-framedphoto-shrink_400_400/0/1645595407486?e=1688763600&v=beta&t=HfnAhXBezLWv0801Na6aQ0g9QUE_ffS54Xn4L3aVkjU",
+        "social_media_handles": "https://www.linkedin.com/in/vishal-chetty-5b556916a/",
+        "designation": "Senior Marketing Associate",
+        "yrs": 2
+    },
+    {
+        "brand_name": "Meesho",
+        "name": "Abhijit Ghosh",
+        "profile_picture": "https://media.licdn.com/dms/image/C5603AQEa_sdN4FF5zw/profile-displayphoto-shrink_400_400/0/1634212103953?e=1693440000&v=beta&t=p-qf1pdQ2OklYJtITg0SE8BLTSyYU_T66C-DgYm3Ljo",
+        "social_media_handles": "https://www.linkedin.com/in/1abhijitghosh/",
+        "designation": "Brand Marketing & Social Media",
+        "yrs": 1
+    }],
+   "total_engagement": 5758309,
+   "total_views": 46750999,
+   "total_likes": 4459099,
+   "total_comments": 557109,
+   "nano_post":57,
+   "micro_post":36,
+   "macro_post":5,
+   "mega_post":2,
+   "top_hashtags": ["#NykaaFashion","#NykaaFaceSerum","#NykaaDelivery"],
+   "no_of_posts": [45,12,8],
+   "likes": [24,11,10],
+   "no_of_creators": [22,12,2],
+   "brand_related_influencers_count": {
+        "instagram": [
+            {"name": "Nano", "count": 63302},
+            {"name": "Budding", "count": 46028},
+            {"name": "Micro", "count": 51048},
+            {"name": "Macro", "count": 47105},
+            {"name": "Celeb", "count": 2867}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 86817},
+            {"name": "Budding", "count": 94361},
+            {"name": "Micro", "count": 9108},
+            {"name": "Macro", "count": 9512},
+            {"name": "Celeb", "count": 430}
+        ]
+    },
+   "social_media_links": {
+    "brand_name": "Meesho",
+    "instagram": "https://www.instagram.com/meeshoapp/",
+    "youtube": "https://www.youtube.com/channel/UCaGHIRKYUYlaI_ZAt2hxpjw",
+    "twitter": "https://twitter.com/Meesho_Officia",
+    "linkedin": "https://www.linkedin.com/company/meesho/"
+  },
+   "competitors": [7,9],
+   "social_presense": 42,
+   "past_analysis": [
+      {
+         "date": "02-05-2023",
+         "result": 1,
+         "reason": "Our creator database"
+      },
+      {
+         "date": "02-05-2023",
+         "result": -1,
+         "reason": "High Pricing"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 74,
+      "keywords": [
+         {"keyword": "Late Delivery","weight": 51342},
+         {"keyword": "High EMI","weight": 63224},
+         {"keyword": "Queries Pending","weight": 35237},
+         {"keyword": "Good Support","weight": 79884},
+         {"keyword": "Purses","weight": 3929}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 32},
+      {"type": "Budding","count": 18},
+      {"type": "Micro","count": 0},
+      {"type": "Macro","count": 20},
+      {"type": "Mega","count": 25},
+      {"type": "Celeb","count": 5}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 980560},
+      {"name": "Google Ads","budget": 496040},
+      {"name": "Email Marketing","budget": 67103},
+      {"name": "TV Ads","budget": 135230}
+   ],
+   "news": []
+},
+{
+   "brand_id": 9,
+   "brand_logo": "data:image/png;base64,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",
+   "brand_name": "Flipkart",
+   "sector": "ECommerce",
+   "seasons": "Diwali, Holi",
+   "contact_person": [{
+        "brand_name": "Flipkart",
+        "name": "Akash Agrawal",
+        "profile_picture": "https://media.licdn.com/dms/image/D5603AQGxsK0AogU1_A/profile-displayphoto-shrink_400_400/0/1685286033933?e=1693440000&v=beta&t=o5UjtE20W1_kyttIv0VyfrMfGiBqrqefVYGeIhLBOW0",
+        "social_media_handles": "https://www.linkedin.com/in/akash-agrawal-582231b7/",
+        "designation": "Senior Manager - Performance Marketing",
+        "yrs": 2
+    },
+    {
+        "brand_name": "Flipkart",
+        "name": "Nitish Bhargav",
+        "profile_picture": "https://media.licdn.com/dms/image/D5603AQEcMxG3FTC8RQ/profile-displayphoto-shrink_400_400/0/1667558175690?e=1693440000&v=beta&t=P9q62NgLbxOJH2vgmBdnh5gNWkVK1U5cG8tF5VeIvME",
+        "social_media_handles": "https://www.linkedin.com/in/nitishbhargav30/",
+        "designation": "Marketing Manager",
+        "yrs": 1
+    }],
+   "suitable_time": 0,
+   "total_creators":3777,
+   "total_posts": 4989,
+   "total_engagement": 2195099,
+   "total_views": 10291099,
+   "total_likes": 2365309,
+   "total_comments": 440420,
+   "nano_post":28,
+   "micro_post":26,
+   "macro_post":28,
+   "mega_post":19,
+   "top_hashtags": ["#FlipkartEMIs","#FlipkartPhones","#QuickDelivery"],
+   "no_of_posts": [45,12,2],
+   "likes": [21,4,2],
+   "no_of_creators": [45,12,2],
+   "brand_related_influencers_count": {
+        "instagram":[
+            {"name": "Nano", "count": 8044},
+            {"name": "Budding", "count": 20661},
+            {"name": "Micro", "count": 41342},
+            {"name": "Macro", "count": 99149},
+            {"name": "Celeb", "count": 6512}
+        ],
+        "youtube": [
+            {"name": "Nano", "count": 88349},
+            {"name": "Budding", "count": 82383},
+            {"name": "Micro", "count": 37682},
+            {"name": "Macro", "count": 6594},
+            {"name": "Celeb", "count": 646}
+        ]
+    },
+   "social_media_links": {
+    "brand_name": "Flipkart",
+    "instagram": "https://www.instagram.com/flipkart/",
+    "youtube": "https://www.youtube.com/channel/UCWZc94oeti-YQsI9995G3aA",
+    "twitter": "https://twitter.com/Flipkart",
+    "linkedin": "https://www.linkedin.com/company/flipkart/"
+  },
+   "competitors": [7,8],
+   "social_presense": 15,
+   "past_analysis": [
+      {
+         "date": "02-06-2023",
+         "result": -1,
+         "reason": "Creators Liquidity"
+      }
+   ],
+   "sentiment_analysis": {
+      "postivity": 35,
+      "keywords": [
+         {"keyword": "Delivery issues","weight": 81919},
+         {"keyword": "No EMI","weight": 61474},
+         {"keyword": "Queries Pending","weight": 19130},
+         {"keyword": "Good Support","weight": 99673},
+         {"keyword": "Indian Brand","weight": 1412},
+         {"keyword": "Poor Support","weight": 95101},
+         {"keyword": "Laptop offers","weight": 13717},
+         {"keyword": "Mobiles","weight": 40767}
+      ]
+   },
+   "creator_types": [
+      {"type": "Nano","count": 25},
+      {"type": "Budding","count": 25},
+      {"type": "Micro","count": 20},
+      {"type": "Macro","count": 10},
+      {"type": "Mega","count": 12},
+      {"type": "Celeb","count": 8}
+   ],
+   "marketing_budget": [
+      {"name": "Social Media Marketing","budget": 371040},
+      {"name": "Google Ads","budget": 840440},
+      {"name": "Email Marketing","budget": 98448},
+      {"name": "TV Ads","budget": 885550}
+   ],
+   "news": []
+}]
