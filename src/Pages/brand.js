@@ -263,6 +263,7 @@ function Brand() {
                   </td>
                 </tr>
                 {singleBrandData?.competitors?.map((competitor, index) => {
+                  console.log(competitor)
                   return (
                     <tr>
                       <td>{Data[competitor - 1]?.brand_name}</td>
